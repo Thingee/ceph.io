@@ -54,6 +54,8 @@ We look forward to upcoming opportunities to bring together this varied and
 dedicated group of Ceph users to learn from each other and to discuss and shape
 the future of this open source project.
 
+<a class="button" href="https://www.youtube.com/playlist?list=PLrBUGiINAakNlN2myemQaO5nSxKfbNFos">Videos</a>
+
 ## Bringing Ceph to NYC!
 
 Come find out why leading enterprises are adopting Ceph, why Ceph is the lowest cost per gig storage solution, and how easy it is to deploy your own Ceph cluster!
@@ -65,8 +67,6 @@ A full-day event dedicated to sharing Ceph’s transformative power and fosterin
 The expert Ceph team, Ceph’s customers and partners, and the Ceph community join forces to discuss things like the status of the Ceph project, recent Ceph project improvements and roadmap, and Ceph community news. The day ends with a networking reception, to foster more Ceph learning.
 
 Space is limited, so register soon.
-
-<a class="button" href="https://go.bloomberg.com/attend/invite/ceph-days-nyc">Register</a>
 
 Join the Ceph announcement list, or follow Ceph on social media for updates:
 

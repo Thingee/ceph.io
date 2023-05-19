@@ -35,6 +35,11 @@ sponsors:
         website: "https://koor.tech/"
 ---
 
+<a class="button"
+href="https://www.flickr.com/photos/linuxfoundation/albums/72177720307235439">Photos</a>
+<a class="button"
+href="https://www.youtube.com/playlist?list=PLrBUGiINAakPd9nuoorqeOuS9P9MTWos3">Videos</a>
+
 Cephalocon is the premier yearly event that brings together the global
 community of operators, developers, and researchers for Ceph, the open source
 distributed storage system designed to provide excellent performance,
@@ -42,10 +47,6 @@ reliability, and scalability. Join new and existing community members from
 around the world to learn more about Ceph and the future of the project from
 the developers writing the code and the operators deploying it at scale.
 
-<a class="button"
-href="https://events.linuxfoundation.org/cephalocon/register/">Register</a>
-<a class="button"
-href="https://events.linuxfoundation.org/cephalocon/sponsor/">Sponsor</a>
 
 **Important Dates**
 
